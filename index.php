@@ -1,0 +1,1 @@
+<?php include_once("trang_1.php"); ?>
